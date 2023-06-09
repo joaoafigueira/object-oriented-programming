@@ -1,2 +1,3 @@
-# object-oriented-programming
-Good practices in OOP
+# Good practices in OOP
+
+This repository keeps all my advances in learning best practices in code, as solid, OOP...
