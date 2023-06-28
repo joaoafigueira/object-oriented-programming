@@ -9,7 +9,7 @@
 
         // A class represents an entity of the real World,
         // anything that exists in the real world and you want
-        // to represent a information structure of that is a Class.
+        // to represent a information structure of that, is a Class.
     }
 
     public class Object
