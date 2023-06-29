@@ -1,3 +1,3 @@
-# Good practices in OOP
+# Software Fundamentals
 
 This repository keeps all my advances in learning best practices in code, as solid, OOP...
