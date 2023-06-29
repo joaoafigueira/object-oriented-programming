@@ -20,7 +20,7 @@ namespace OOP
             return age;
         }
 
-        // A behavior of a class it is the possibility to manipulate  the
-        // object attributes.
+        //The behavior that a class has are the methods. Methods are capable of
+        //changing the state of a property or processing/manipulating information in the class.
     }
 }
