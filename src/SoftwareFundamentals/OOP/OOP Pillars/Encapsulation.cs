@@ -19,7 +19,7 @@
         public class ExpressoMachine
         {
             //With encapsulation we can hide the way something is done,
-            //giving the people who are calling the method
+            //giving the people who are calling the method,
             //just the result.
 
             public void On()
